@@ -1,2 +1,2 @@
-# livewire-jetstream-team-filament-stack
- Filament Admin Dashboard added to our laravel 11 jetstream boilerplate
+# livewire-jetstream-team-stack
+ Laravel 11 Starter Boilerplate with the jetstream livewire teams stack
